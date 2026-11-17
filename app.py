@@ -2,7 +2,7 @@ from datetime import datetime
 import io
 import urllib.parse
 import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup
+import BeautifulSoup as bs4
 import numpy as np
 import pandas as pd
 import plotly.express as px
